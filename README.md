@@ -6,7 +6,7 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMFDOo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WingNetwork&show_icons=true&theme=radical)
 
 공부 방향성을 잡아가고 있는 개발자 꿈나무입니다.<br>
 여러가지 건드려가며 공부하고 있지만,<br>
